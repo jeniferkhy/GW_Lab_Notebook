@@ -1,2 +1,1 @@
-# GW_Lab_Notebook- hello 
-hello again 
+# GW_Lab_Notebook
